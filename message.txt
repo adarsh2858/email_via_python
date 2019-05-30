@@ -1,0 +1,9 @@
+Dear ${PERSON_NAME},
+
+You have cleared the mock test.
+Result is as follows - 
+${RESULT}
+
+Have a great weekend.
+
+Yours truly
